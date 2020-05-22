@@ -7,5 +7,6 @@ En el repositorio puedes encontar:
 -  <a href="https://github.com/Nuno2003/Brazo-Robotico-Mk3/blob/master/Control_Brazo.ino">C&oacute;digo Arduino</a>
 
 LICENCIA
+
 Este proyecto fue desarrollado durante el curso 2019/2020 en el IES Vicente Aleixandre de Sevilla en 1º de Bachillerato de ciencias tecnológicas por Nuno José del Pino Escalante y Daniel de Ramón Arteagabeitia, con el apoyo de su profesor José Pujol. 
 Esta obra está bajo una licencia de <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"> Creative Commons Reconocimiento-NoComercial 4.0 Internacional
