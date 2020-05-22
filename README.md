@@ -4,7 +4,7 @@ Aquí en GitHub estarán los códigos, para más información visita nuestra web
 
 En el repositorio puedes encontar:
 
--  [Código Arduino)(https://github.com/Nuno2003/Brazo-Robotico-Mk3/tree/master/Controlde_brazo_con_bt)
+-  [Código Arduino](https://github.com/Nuno2003/Brazo-Robotico-Mk3/tree/master/Controlde_brazo_con_bt)
 
 LICENCIA
 
