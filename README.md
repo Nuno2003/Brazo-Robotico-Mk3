@@ -7,7 +7,7 @@ En el repositorio puedes encontar:
 
 -  [Web del proyecto](https://sites.google.com/iesvaleix.com/brazoroboticomk3)
 -  [Vídeo del proyecto](https://youtu.be/dz-wYGEaOgs)
--  [Código Arduino](https://github.com/Nuno2003/Brazo-Robotico-Mk3//Brazo-Robotico-Mk3/tree/master/Controlde_brazo_con_bt/Código%20Arduino/)
+-  [Código Arduino](https://github.com/Nuno2003/Brazo-Robotico-Mk3/tree/master/Controlde_brazo_con_bt/C%C3%B3digo%20Arduino)
 -  [Diseño 3D](https://www.thingiverse.com/thing:2838859)
 
 
