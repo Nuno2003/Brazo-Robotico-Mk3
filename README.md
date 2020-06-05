@@ -14,4 +14,4 @@ En el repositorio puedes encontar:
 LICENCIA
 
 Este proyecto fue desarrollado durante el curso 2019/2020 en el IES Vicente Aleixandre de Sevilla en 1º de Bachillerato de ciencias tecnológicas por Nuno José del Pino Escalante y Daniel de Ramón Arteagabeitia, con el apoyo de su profesor José Pujol. 
-Se distribuye con licencia [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+Se distribuye con licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
