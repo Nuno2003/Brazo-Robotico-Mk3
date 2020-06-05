@@ -9,7 +9,7 @@ En el repositorio puedes encontar:
 -  [Vídeo del proyecto](https://youtu.be/dz-wYGEaOgs)
 -  [Código Arduino](https://github.com/Nuno2003/Brazo-Robotico-Mk3/tree/master/C%C3%B3digo%20Arduino)
 -  [Diseño 3D](https://www.thingiverse.com/thing:2838859)
-
+-  [Esquemas de conexiones](https://github.com/Nuno2003/Brazo-Robotico-Mk3/tree/master/Esquemas%20de%20conexiones)
 
 LICENCIA
 
