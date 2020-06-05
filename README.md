@@ -2,6 +2,8 @@
 Este  proyecto es un brazo robótico controlador por 3 motores paso a paso, un servomotor y que tiene varias formas de control.
 [Esta es la web del proyecto](https://sites.google.com/iesvaleix.com/brazoroboticomk3)
 
+<div align="center"><img src="Imágenes/Brazo icono.png" width="350"></div>
+
 En el repositorio puedes encontar:
 
 -  [Código Arduino](https://github.com/Nuno2003/Brazo-Robotico-Mk3/tree/master/Controlde_brazo_con_bt)
